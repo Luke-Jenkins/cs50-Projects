@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <string.h>
 
+//my contributions were the vote() and print_winner() functions and their contents. 
+//The rest was assigned in a source file for the assignment.
+
 // Max number of candidates
 #define MAX 9
 
